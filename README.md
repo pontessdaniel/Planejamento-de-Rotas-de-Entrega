@@ -1,6 +1,6 @@
 # Planejamento-de-Rotas-de-Entrega
 
-### Exercício 3 em Markdown
+### Exercício 2 em Markdown
 
 **Objetivo:** Planejar rotas de entrega eficientes para uma frota de veículos, minimizando o tempo e o custo.
 
